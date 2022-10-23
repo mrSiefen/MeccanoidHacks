@@ -5,7 +5,7 @@
 - [Meccanoid Hacks Part 1](https://mrsiefensrobotemporium.com/blogs/2022/October/meccanoidHackspt1.html?)  
 - [Meccanoid Smart Module PDF](https://mrsiefensrobotemporium.com/downloads/Meccano_SmartModuleProtocols_2015.pdf) 
 - Arduino Libraries (DONT USE THE OFFICIAL MECCANO LIBRARY)
-  - [Meccano Official Library .zip](https://mrsiefensrobotemporium.com/downloads/meccanoid-libarary.zip)
+  - [Meccano Official Library .zip](https://mrsiefensrobotemporium.com/downloads/meccanoid-library.zip)
   - [Alex Frederickson's MeccanoidForArduino](https://github.com/alexfrederiksen/MeccanoidForArduino)  
 - [General Meccanoid Info](http://intl.meccano.com/meccanoid-about) - This Link May Break!
 
