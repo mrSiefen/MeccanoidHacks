@@ -17,5 +17,5 @@ Meccanoid (Not MAX) has 4 variants that are controllable from the Arduino.
 |----------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|
 |Hackable|✓            |✓            |✓      |✓            |
  
-### Circuit Diagram for a Single Smart Module Chain
+## Circuit Diagram for a Single Smart Module Chain
 ![Fritzing Diagram Chain Circuit](https://mrsiefensrobotemporium.com/images/blogImages/Meccanoid%20LED%20Circuit.png)
